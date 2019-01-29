@@ -1,0 +1,18 @@
+{
+  "name": "mamatveev/yii2-useful-behaviours",
+  "description": "Полезные behaviours для AR моделей",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mikhail Matveev",
+      "email": "m.matveev114@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "mamatveev\\yii2UsefulBehaviours\\": "src/"
+    }
+  }
+}
